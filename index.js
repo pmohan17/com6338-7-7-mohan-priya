@@ -2,11 +2,11 @@
 //Create questions for quiz
 var questionsArr = [
     {question: 'Where was the first World Cup held?', 
-    answer: 'Uraguay',
+    answer: 'Uruguay',
     options: [
         'Brazil',
         'Spain',
-        'Uraguay',
+        'Uruguay',
         'South Africa',
                  ]
     },
